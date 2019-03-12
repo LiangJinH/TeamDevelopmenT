@@ -1,0 +1,6 @@
+/bin/
+*.[ao]
+*.classpath
+*.project
+/.settings/
+*.prefs
