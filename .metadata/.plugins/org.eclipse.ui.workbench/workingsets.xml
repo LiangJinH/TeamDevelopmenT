@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workingSetManager>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1552327509835_1" label="TeamDevelopment" name="TeamDevelopment">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
-</workingSet>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1552317247350_0" label="窗口工作集" name="Aggregate for window 1552317247349"/>
-<mruList name="TeamDevelopment"/>
-</workingSetManager>
